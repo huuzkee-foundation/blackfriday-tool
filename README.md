@@ -1,0 +1,2 @@
+# blackfriday-tool
+blackfriday-tool
